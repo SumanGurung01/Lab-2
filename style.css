@@ -1,0 +1,44 @@
+body{
+  background-image: url(https://coolbackgrounds.io/images/backgrounds/index/ranger-4df6c1b6.png);
+  background-repeat: no-repeat;
+  background-size: 1400px 1400px;
+  padding-left: 300px;
+  padding-right: 300px;
+}
+
+.heading{
+  padding-left: 300px;
+}
+
+.image{
+  padding-left: 210px;
+}
+
+h1{
+  font-size: 30px;
+}
+
+.btn{
+  padding-left: 260px;
+}
+
+.formbody{
+  padding: 21px;
+  border: solid;
+  border-radius: 30px;
+}
+
+#btn1{
+  border-radius: 27px;
+}
+#btn1:hover{
+  background-color: lightgreen;
+}
+
+#btn2{
+  border-radius: 27px;
+}
+
+#btn2:hover{
+  background-color: lightgreen;
+}
